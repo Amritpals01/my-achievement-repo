@@ -1,0 +1,27 @@
+{
+  "project": {
+    "name": "My Achievement Repository",
+    "version": "1.0.0",
+    "description": "A repository created to help earn GitHub achievements",
+    "author": "Amritpals01",
+    "created": "2025-07-13"
+  },
+  "goals": [
+    "Learn GitHub basics",
+    "Earn GitHub achievements",
+    "Build a professional profile",
+    "Practice version control"
+  ],
+  "achievements_earned": [
+    "First Repository",
+    "First Commit",
+    "First Push",
+    "Multiple File Types"
+  ],
+  "next_steps": [
+    "Create issues",
+    "Make pull requests",
+    "Contribute to open source",
+    "Add more diverse content"
+  ]
+}
